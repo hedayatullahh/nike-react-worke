@@ -1,0 +1,47 @@
+.bebas{
+    font-family: 'Bebas Neue';
+}
+.roboto{
+    font-family: 'Roboto';
+}
+.texts{
+    color: #FA804C;
+}
+.textss{
+    color: #363958;
+}
+.imagess{
+    width: 550px;
+    height: 500px;
+} 
+a{
+    text-decoration: none;
+}
+.juta{
+    width: 500px;
+    height: 480px;
+}  
+.vg-color{
+    background-color: #F1F1F1;
+    /* width: 381px;
+    height: 327px ; */
+    /* align-items: center; */
+}
+
+
+
+
+
+@media screen and (max-width:576px){
+    .nike-logo img{
+        width: 180px;
+        height: 30; 
+    }
+    .juta{
+        width: 400px;
+        height: 300px;
+    }
+    /* .extra{
+        padding:0px;
+    } */
+}
